@@ -1,0 +1,22 @@
+PROYECTO ACADÉMICO: CURSO VIRTUAL
+
+1. Extrae todo el ZIP en una carpeta.
+2. Abre index.html con Chrome, Edge o Firefox.
+3. Conserva todos los archivos en la misma carpeta.
+
+PÁGINAS HTML
+index.html: portada, índice e introducción.
+informativo.html: actividades 1 y 2.
+interaccion.html: actividades 3, 4 y 5.
+produccion.html: actividades 6, 7 y 8.
+exhibicion.html: actividades 9, 10 y 11.
+conclusion.html: secuencia, conclusión y referencias.
+documento.html: acceso de compatibilidad a la presentación.
+
+OTROS ARCHIVOS
+estilos.css: diseño y adaptación a celular e impresión.
+
+Para modificar el contenido, abre los HTML en un editor de texto.
+No requiere instalaciones, conexión ni servidor para navegar entre páginas. Las referencias externas requieren Internet.
+
+Este trabajo presenta una propuesta de diseño de curso. No incluye un foro real, recepción de tareas ni calificaciones.
